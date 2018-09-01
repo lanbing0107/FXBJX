@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/8/30 9:42:01。
+     1>项目“F:\工作20180827_飞行包解析\FXBJX\FXB解析_V0.0.1.180827_Alpha\flyAnalysis\flyAnalysis\flyAnalysis.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtSql /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_SQL_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt FlyCalculate.cpp flyanalysis.cpp
+         FlyCalculate.cpp
+         flyanalysis.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\工作20180827_飞行包解析\FXBJX\FXB解析_V0.0.1.180827_Alpha\flyAnalysis\Win32\Debug\\flyAnalysis.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib Qt5Sqld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\工作20180827_飞行包解析\FXBJX\FXB解析_V0.0.1.180827_Alpha\flyAnalysis\Win32\Debug\flyAnalysis.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\工作20180827_飞行包解析\FXBJX\FXB解析_V0.0.1.180827_Alpha\flyAnalysis\Win32\Debug\flyAnalysis.lib" /MACHINE:X86 /SAFESEH Debug\flyanalysis.obj
+         Debug\FlyCalculate.obj
+         Debug\moc_flyanalysis.obj
+         Debug\qrc_flyanalysis.obj
+         Debug\GetMap.obj
+         Debug\main.obj
+         Debug\MyThread1.obj
+         flyAnalysis.vcxproj -> F:\工作20180827_飞行包解析\FXBJX\FXB解析_V0.0.1.180827_Alpha\flyAnalysis\Win32\Debug\flyAnalysis.exe
+     1>已完成生成项目“F:\工作20180827_飞行包解析\FXBJX\FXB解析_V0.0.1.180827_Alpha\flyAnalysis\flyAnalysis\flyAnalysis.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.60
